@@ -1,0 +1,9 @@
+{
+  "name": "parcel-resolver-custom",
+  "version": "1.0.0",
+  "description": "Parcel resolver",
+  "main": "./index.js",
+  "engines": {
+    "parcel": "2.x"
+  }
+}
